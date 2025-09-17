@@ -18,6 +18,7 @@
 ./files.txt
 ./index.txt
 ./index.zip
+./regulations.zip
 ./requirements.txt
 ./savings.txt
 ./savings.zip
